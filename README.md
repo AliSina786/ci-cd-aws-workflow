@@ -1,2 +1,2 @@
-# ci-cd-aws-workflow
-Defining a Complete CI/CD Workflow to Build and Operate Applications on AWS
+# CI/CD Workflow for AWS Applications
+This repository contains the code and configuration for implementing comprehensive CI/CD workflow designed for building and operating applicatiolns on Amazon Web Services (AWS).
